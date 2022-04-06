@@ -1,3 +1,5 @@
+This is an old version of the socket.io-client that uses the msgpack parser.
+
 
 # socket.io-client
 
